@@ -1,2 +1,1 @@
-# edureka
-Edureka Tutorial
+I am Going to Learn Git TUtorail
